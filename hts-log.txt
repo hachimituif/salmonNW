@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Wed, 14 Jun 2023 01:00:20 at https://salmon-learn-nw.gungee.jp/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "ja, en, *" -Y https://salmon-learn-nw.gungee.jp/ -O1 "C:\My Web Sites\salmonrunNW" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+01:00:24	Warning: 	Unable to test https://twitter.com/GungeeSpla (loop to same filename)
+01:00:24	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/GungeeSpla
+01:00:30	Warning: 	Unable to test https://twitter.com/search?q=%E3%83%90%E3%82%A4%E3%83%88%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA&src=typed_query&f=live (loop to same filename)
+01:00:30	Warning: 	link is probably looping, type unknown, aborting: https://twitter.com/search?q=%E3%83%90%E3%82%A4%E3%83%88%E3%82%B7%E3%83%8A%E3%83%AA%E3%82%AA&src=typed_query&f=live
+
+HTTrack Website Copier/3.49-2 mirror complete in 43 seconds : 54 links scanned, 53 files written (1073913 bytes overall) [489440 bytes received at 11382 bytes/sec], 1074163 bytes transferred using HTTP compression in 54 files, ratio 42%, 5.6 requests per connection
+(No errors, 4 warnings, 0 messages)

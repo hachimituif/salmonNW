@@ -1,0 +1,8 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_marketing	v1%3A168667203078878903
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id_ads	v1%3A168667203078878903
+.twitter.com	TRUE	/	FALSE	1999999999	personalization_id	v1_sij8HnO6mg/d6/gQfezKBQ=="
+.twitter.com	TRUE	/	FALSE	1999999999	guest_id	v1%3A168667203078878903
+twitter.com	TRUE	/	FALSE	1999999999	SameSite	None
+
